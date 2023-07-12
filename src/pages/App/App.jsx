@@ -4,7 +4,7 @@ import { getUser} from "../../utilities/user-services"
 import HomePage from '../HomePage/Homepage'
 import LoginPage from '../Login/LoginPage'
 import RegisterPage from '../Register/RegisterPage'
-import ToDoList from '../ToDoList/ToDolist'
+import ToDoList from '../ToDoList/ToDoList'
 import AddToDoItem from '../AddToDoItem/AddToDoItem'
 import UpdateToDoItem from '../UpdateToDoItem/UpToDoItem'
 
